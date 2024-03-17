@@ -5,7 +5,7 @@ ollama serve &
 
 sleep 10
 
-ollama run llama2 &
+# ollama run llama2 &
 
 ./start.sh
 
